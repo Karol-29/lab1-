@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Tower
-comment1.params=numberOfDisks\ xPosition\ yPosition
-comment1.target=Tower(int,\ int,\ int)
-comment2.params=
-comment2.target=void\ makeVisible()
-comment3.params=
-comment3.target=void\ draw()
-numComments=4
